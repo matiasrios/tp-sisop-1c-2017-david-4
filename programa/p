@@ -1,0 +1,23 @@
+begin
+<<<<<<< HEAD
+  variables a,t
+=======
+  variables a,b
+>>>>>>> master
+  alocar a 150
+  *a = 80
+  prints n a
+  wait b
+<<<<<<< HEAD
+alocar t 20
+*t = 54345353
+wait b
+liberar a
+wait b
+  alocar a 70
+wait b
+    *a = 80808080
+end
+=======
+end
+>>>>>>> master

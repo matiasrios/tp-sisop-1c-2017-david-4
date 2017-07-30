@@ -1,0 +1,4 @@
+begin
+	variables f
+	abrir f L /lorem.txt
+end

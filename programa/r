@@ -1,0 +1,12 @@
+begin
+  variables a,b
+  alocar a 220
+  *a = 80808080
+  wait b
+  alocar b 200
+  *b = 454545
+  wait b
+  liberar b
+  liberar a
+  wait b
+end

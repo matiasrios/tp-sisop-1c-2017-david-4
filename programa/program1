@@ -1,0 +1,5 @@
+begin
+  variables a
+  alocar a 100
+  alocar a 50
+end
